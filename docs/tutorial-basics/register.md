@@ -4,9 +4,9 @@ sidebar_position: 1
 
 # Register
 
-## Registration at www.optimus.quashbugs.com
+## Registration at https://optimus.quashbugs.com
 
-**Step 1: Register at [www.optimus.quashbugs.com](www.optimus.quashbugs.com)**
+**Step 1: Register at [https://optimus.quashbugs.com](https://optimus.quashbugs.com)**
 
 1. Go to the website in your web browser.
 2. Click on the "Sign Up" or "Register" option on the homepage.
@@ -31,7 +31,7 @@ sidebar_position: 1
 9. After adding your company's information, there may be an option to generate an API key for your company.
 10. Follow the instructions on the website to generate a unique API key for your company.
 
-Please note that the specific steps and website interface may vary, so follow the instructions provided on the [www.optimus.quashbugs.com](www.optimus.quashbugs.com) website during the registration process.
+Please note that the specific steps and website interface may vary, so follow the instructions provided on the [https://optimus.quashbugs.com](https://optimus.quashbugs.com) website during the registration process.
 
 <video controls width="600">
   <source
