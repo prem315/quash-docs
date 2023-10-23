@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkquash_docs=self.webpackChunkquash_docs||[]).push([[520],{817:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/quash-docs/blog/tags/docusaurus","allTagsPath":"/quash-docs/blog/tags","count":4}')}}]);

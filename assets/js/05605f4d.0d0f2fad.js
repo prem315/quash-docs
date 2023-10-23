@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkquash_docs=self.webpackChunkquash_docs||[]).push([[8690],{2666:s=>{s.exports=JSON.parse('{"permalink":"/quash-docs/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
