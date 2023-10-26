@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkquash_docs=self.webpackChunkquash_docs||[]).push([[857],{7117:s=>{s.exports=JSON.parse('{"permalink":"/quash-docs/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

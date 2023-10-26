@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkquash_docs=self.webpackChunkquash_docs||[]).push([[662],{8518:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/quash-docs/blog/tags/facebook","allTagsPath":"/quash-docs/blog/tags","count":1}')}}]);
