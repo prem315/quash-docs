@@ -10,6 +10,14 @@ sidebar_position: 1
 2. Check your email and click on the verify button
 3. Provide details about you and your company
 
+<video controls width="600">
+  <source
+    src="https://storage.googleapis.com/misc_quash_static/quashlogin.mp4"
+    type="video/mp4"
+  />
+  Your browser does not support the video tag.
+</video>
+
 **Step 2: Integrate your application**
 
 1. Copy the unique key and initialize the SDK
@@ -29,11 +37,27 @@ sidebar_position: 1
 1. Go to Settings → Integrations
 2. More on this here link to documentation/integrations
 
+<video controls width="600">
+  <source
+    src="https://storage.googleapis.com/misc_quash_static/integrations.mov"
+    type="video/mp4"
+  />
+  Your browser does not support the video tag.
+</video>
+
 **Step 5: Invite your teammates**
 
 1. Go to settings → Members
 2. Click on Add Members button
 3. Enter emails of your teammates and invite them
+
+<video controls width="600">
+  <source
+    src="https://storage.googleapis.com/misc_quash_static/addmembers.mov"
+    type="video/mp4"
+  />
+  Your browser does not support the video tag.
+</video>
 
 <!-- Please note that the specific steps and website interface may vary, so follow the instructions provided on the [https://optimus.quashbugs.com](https://optimus.quashbugs.com) website during the registration process.
 
